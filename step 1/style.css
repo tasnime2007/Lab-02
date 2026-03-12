@@ -1,0 +1,19 @@
+body{
+font-family: Arial;
+margin:20px;
+background:#e9ecef;
+}
+
+h1{
+color:blue;
+}
+
+.course-row{
+display:flex;
+gap:10px;
+margin-bottom:10px;
+}
+
+input,select{
+padding:5px;
+}
